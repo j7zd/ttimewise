@@ -1,2 +1,1 @@
-# ttimewise
-All in one app for time management.
+# code coming soon...
