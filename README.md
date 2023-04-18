@@ -6,8 +6,8 @@ How to install:
 
 Feedback and support: fqy2rl@gmail.com
 
-#Patch notes:
-##v 0.1.1
+# Patch notes:
+## v0.1.1
 + updated the add task menu
 + current time marker now only is shown in the current day
 + fixed an issue where the marker crashes the app
